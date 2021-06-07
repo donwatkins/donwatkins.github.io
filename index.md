@@ -12,6 +12,6 @@ I am passionate about using Linux and open source software. I write regulary for
 
 [All Things Open Presentation 2019](https://github.com/donwatkins/ATO2019)
 
-[PyStudentsForGood](https://github.com/donwatkins/PyGirls4Good)
+[PyStudentsForGood](https://github.com/donwatkins/PyStudents4Good)
 
 [Philomathic Cybersecurity Presentation](https://github.com/donwatkins/Presentations/blob/master/philomathic.md)
